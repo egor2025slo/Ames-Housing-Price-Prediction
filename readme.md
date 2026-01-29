@@ -114,23 +114,6 @@ These features align well with real-world housing valuation logic.
 
 ---
 
-## Limitations
-
-- The dataset is limited to a specific region (Ames, Iowa)
-- Market trends over time were not explicitly modeled
-- Some engineered features may be correlated
-
----
-
-## Future Work
-
-- Apply more advanced boosting models (LightGBM, XGBoost)
-- Use SHAP values for deeper model interpretation
-- Add neighborhood-level aggregated features
-- Experiment with quantile regression for uncertainty estimation
-
----
-
 ## Technologies Used
 
 - Python
